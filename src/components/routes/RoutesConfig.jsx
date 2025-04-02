@@ -9,7 +9,8 @@ import Forgetpassword from "../Forgetpassword";
 import Profile from "../AfterLogin/Account/Profile";
 import Withdrow from "../AfterLogin/Account/Withdrow";
 import AccountStatement from "../AfterLogin/Account/AccountStatement";
-import Informations from "../AfterLogin/Account/informations";
+import Informations from "../AfterLogin/Account/Informations";
+
 import Contactus from "../AfterLogin/Account/Contactus";
 import Deposite from "../AfterLogin/Account/Deposite";
 import Indiancasino from "../AfterLogin/indiancasino";
@@ -53,8 +54,8 @@ const RoutesConfig = () => {
       <Route path="/scorecard" element={<Scorecardclik />} />
       <Route path="/Incard" element={<Incard />} />
       <Route path="/menu" element={<Menu />} />
-      <Route path="/chart" element={<Clickchat/>} />
-      <Route path="/mutli-media" element={<Multiid/>} />
+      <Route path="/chart" element={<Clickchat />} />
+      <Route path="/mutli-media" element={<Multiid />} />
 
 
     </Routes>

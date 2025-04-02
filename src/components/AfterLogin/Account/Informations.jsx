@@ -2,7 +2,7 @@ import React from 'react'
 
 function Informations() {
   return (
-     <div _ngcontent-ng-c344788945="" className="px-lg-3 content-with-news">
+    <div _ngcontent-ng-c344788945="" className="px-lg-3 content-with-news">
       <router-outlet _ngcontent-ng-c344788945="" />
       <app-information _nghost-ng-c2103745553="" className="ng-star-inserted">
         <div
@@ -118,8 +118,8 @@ function Informations() {
           </div>
         </div>
       </app-information>
-     
-     
+
+
     </div>
   )
 
