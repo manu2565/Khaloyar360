@@ -11,7 +11,7 @@ import Scorecardclik from "./Scoreboard/Scorecardclik";
 import { ThemeProvider } from "./Inplay/ThemeContext";
 import ThemeToggle from "./Inplay/ThemeToggle";
 import Profitandlose from "./Profileheader/Profitandlose";
-import Result from "./Profileheader/result";
+import Result from "./Profileheader/Result";
 import Infooter from "./Inplay/Infooter";
 function Inplay() {
 
