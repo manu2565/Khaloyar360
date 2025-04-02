@@ -13,7 +13,7 @@ import Informations from "../AfterLogin/Account/Informations";
 
 import Contactus from "../AfterLogin/Account/Contactus";
 import Deposite from "../AfterLogin/Account/Deposite";
-import Indiancasino from "../AfterLogin/indiancasino";
+import Indiancasino from "../AfterLogin/Indiancasino";
 import Inplay from "../AfterLogin/Inplay";
 import Upcoming from "../AfterLogin/Inplay/Upcoming";
 import Providers from "../Providers";
