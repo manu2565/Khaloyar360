@@ -1,0 +1,23 @@
+window.layer = "https://sandbox-payments.open.money/layer";
+window.inplay = [
+  { sportName: "Cricket" },
+  { sportName: "Soccer" },
+  { sportName: "Tennis" },
+  { sportName: "Greyhound Racing" },
+  { sportName: "Volleyball" },
+  { sportName: "Rugby League" },
+  { sportName: "Boxing" },
+  { sportName: "Rugby Union" },
+  { sportName: "Australian Rules" },
+];
+window.upcoming = [
+  { sportName: "Cricket" },
+  { sportName: "Soccer" },
+  { sportName: "Tennis" },
+  { sportName: "Volleyball" },
+  { sportName: "Rugby League" },
+  { sportName: "Boxing" },
+  { sportName: "Rugby Union" },
+  { sportName: "Australian Rules" },
+];
+window.welcomePopup=[false,1000];

@@ -1,0 +1,63 @@
+<svg width="1180" height="300" viewBox="0 0 1180 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+ <style> 
+ #moving-img {
+  animation: hover-in-air 1.3s infinite;
+}
+
+@keyframes hover-in-air {
+  0% {
+    transform: translate(0%, -20%)
+  }
+
+  20% {
+    transform: translate(0%, 0%)
+  }
+
+  100% {
+    transform: translate(0%, 0%)
+  }
+}
+
+#moving-img2 {
+  animation: hover-in-air2 1.3s infinite;
+  ;
+}
+
+@keyframes hover-in-air2 {
+  0% {
+    transform: translate(-10%, 20%)
+  }
+
+  60% {
+    transform: translate(0%, 0%)
+  }
+
+  100% {
+    transform: translate(0%, 0%)
+  }
+}
+
+#moving-img3 {
+  animation: hover-in-air3 1.3s infinite;
+}
+
+@keyframes hover-in-air3 {
+  0% {
+    transform: translate(10%, 20%)
+  }
+
+  80% {
+    transform: translate(0%, 0%);
+  }
+
+  100% {
+    transform: translate(0%, 0%)
+  }
+}
+ </style>
+<rect width="1180" height="300" fill="#202020"/>
+<rect x="458.801" y="27" width="262.4" height="246" fill="#202020"/>
+<path id="moving-img" d="M537.52 168.04V41.76H571.96V133.313L537.52 168.04Z" fill="white" fill-opacity="0.05"/>
+<path id="moving-img2" d="M538.34 181.16V226.26L647.4 107.36H606.4L538.34 181.16Z" fill="white" fill-opacity="0.05"/>
+<path id="moving-img3" d="M673.639 244.3L649.039 258.24L583.439 177.06L603.119 155.74L673.639 244.3Z" fill="white" fill-opacity="0.05"/>
+</svg>
