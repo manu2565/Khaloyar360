@@ -322,7 +322,7 @@ function Profitandlose() {
                             >
                               Veronica{" "}
                             </option>
-                            
+
                           </select>
                         </div>
                         <div _ngcontent-xhu-c32="" className="col-sm-3 p-0 pr-2">
@@ -365,7 +365,7 @@ function Profitandlose() {
                                 <th _ngcontent-xhu-c32="">Started Date</th>
                               </tr>
                             </thead>
-                            
+
                             <tbody _ngcontent-xhu-c32="">
                               <tr
                                 _ngcontent-xhu-c32=""
@@ -376,29 +376,29 @@ function Profitandlose() {
                                     {" "}
                                     No Data Available{" "}
                                   </span>
-                                  
-                                  
+
+
                                 </td>
                               </tr>
                             </tbody>
-                            
+
                           </table>
                         </div>
                         <pagination _ngcontent-xhu-c32="" _nghost-xhu-c31="">
-                          
+
                         </pagination>
                       </div>
                     </div>
                   </div>
-                  
+
                 </app-profit-loss>
-                
+
               </div>
             </div>
           </div>
         </div>
       </div>
- 
+
     </>
   )
 }

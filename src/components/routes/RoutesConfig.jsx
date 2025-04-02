@@ -15,7 +15,7 @@ import Contactus from "../AfterLogin/Account/Contactus";
 import Deposite from "../AfterLogin/Account/Deposite";
 import Indiancasino from "../AfterLogin/Indiancasino";
 import Inplay from "../AfterLogin/Inplay";
-// import Upcoming from "../AfterLogin/Inplay/Upcoming";
+
 import Providers from "../Providers";
 import Sportbook from "../AfterLogin/Sportbook";
 import Scorecardclik from "../AfterLogin/Scoreboard/Scorecardclik";

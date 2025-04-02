@@ -10,7 +10,7 @@ import Homecomponent from "./Inplay/Homecomponent";
 import Scorecardclik from "./Scoreboard/Scorecardclik";
 import { ThemeProvider } from "./Inplay/ThemeContext";
 import ThemeToggle from "./Inplay/ThemeToggle";
-import Profitandlose from "./Profileheader/profitandlose";
+import Profitandlose from "./Profileheader/Profitandlose";
 import Result from "./Profileheader/result";
 import Infooter from "./Inplay/Infooter";
 function Inplay() {
@@ -59,7 +59,7 @@ function Inplay() {
 
   return (
     <ThemeProvider>
-      <div _ngcontent-ng-c344788945="" className="px-lg-3 content-with-news" style={{position:"relative"}}>
+      <div _ngcontent-ng-c344788945="" className="px-lg-3 content-with-news" style={{ position: "relative" }}>
 
         <router-outlet _ngcontent-ng-c344788945="" />
         <app-exchange _nghost-ng-c13408005 className="ng-star-inserted">
